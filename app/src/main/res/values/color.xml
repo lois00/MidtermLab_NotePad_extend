@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color_black">#000000</color>
+    <color name="note_backcolor">#d8d079</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_note_background_pink">#ffc0cb</color>
+    <color name="color_note_background_white">#ffffff</color>
+    <color name="color_note_background_light_blue">#cae1ff</color>
+    <color name="color_note_background_light_pink">#ffe1ff</color>
+    <color name="color_note_background_light_yellow">#fff690</color>
+    <color name="color_note_background_light_green">#bdfcd2</color>
+    <color name="color_note_background_light_gray">#dfdfdf</color>
+    <color name="color_note_background_light_red">#efb7b7</color>
+    <color name="color_note_background_light_cyan">#dcf4e0</color>
+    <color name="color_note_background_light_purple">#e8d1ed</color>
+    <color name="tab_color">#40f903</color>
+    <color name="tab_light_color">#dddddd</color>
+    <color name="color_button_text">#34b5e5</color>
+</resources>

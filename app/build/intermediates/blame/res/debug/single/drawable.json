@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete2.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_delete2.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_note.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\menu_item_note.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_save.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_change_color.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\menu_change_color.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete2.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_delete2.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_notes.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_addnote.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\menu_addnote.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit3.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_edit3.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_revert.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_sort.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\menu_sort.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_change_color.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\menu_change_color.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_save2.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_save2.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note_shape_line.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\note_shape_line.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_note.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\icon_note.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_note.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\menu_item_note.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_notes.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_edit_title.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\menu_edit_title.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_pullout.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\menu_pullout.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_folder_notes.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit3.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_edit3.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_edit_title.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\menu_edit_title.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_addnote.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\menu_addnote.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_sort.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\menu_sort.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_folder_notes.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_pullout.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\menu_pullout.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_save2.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_save2.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_delete.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_revert.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_edit.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_save.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note_shape_line.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\note_shape_line.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_paste.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\menu_paste.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_paste.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\src\\main\\res\\drawable\\menu_paste.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_note.png",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master-extend\\app\\src\\main\\res\\drawable\\icon_note.png"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android\\AS_workspace\\NotePad-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    }
+]

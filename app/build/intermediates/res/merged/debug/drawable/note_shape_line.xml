@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--实现边框阴影效果-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bottom 2dp Shadow -->
+    <item>
+        <shape  android:shape="rectangle">
+            <solid android:color="#BBB" />
+            <corners android:radius="5dp" />
+        </shape>
+    </item>
+
+    <!-- White Top color -->
+    <item android:bottom="4px" android:id="@+id/bgColor">
+        <shape  android:shape="rectangle">
+            <solid android:color="@color/color_note_background_light_green" />
+            <corners android:radius="4dp" />
+            <padding
+                android:top="3dp"
+                android:right="10dp"
+                android:left="5dp"/>
+        </shape>
+    </item>
+</layer-list>

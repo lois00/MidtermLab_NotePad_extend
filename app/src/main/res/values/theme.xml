@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- ActionBar的背景色 -->
+        <item name="colorPrimary">@color/text_color_black</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <!-- ActionBar上字体的前景色 -->
+        <item name="android:textColorPrimary">@color/color_white</item>
+        <!-- 整个窗口的背景色 -->
+        <item name="android:windowBackground">@color/color_white</item>
+        <!-- 窗口中字体的颜色 -->
+        <item name="android:textColor">@color/text_color_black</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/text_color_black</item>
+        <!-- Support library compatibility -->
+        <item name="background">@color/text_color_black</item>
+    </style>
+
+    <style name="CustomTheme" parent="Base.V7.Theme.AppCompat.Light">
+        <item name="windowActionBar">true</item>
+    </style>
+</resources>
