@@ -6,26 +6,25 @@
 粘贴、编辑笔记内容与撤销编辑操作<br>
 ### 2.扩展功能：<br>
 笔记条目增加时间戳显示、根据标题查询笔记、UI美化、笔记排序、导出笔记、更改记事本的背景<br>
-
 ## 功能说明及展示：<br>
 ### 一、列出笔记条目,并显示时间戳<br>
-  当应用启动，系统将列出数据库所有的笔记条目。这是应用程序的主界面。<br>
-  每条笔记显示了笔记的标题以及最后修改时间，每条笔记都有各自的背景色。<br>
+    当应用启动，系统将列出数据库所有的笔记条目。这是应用程序的主界面。<br>
+    每条笔记显示了笔记的标题以及最后修改时间，每条笔记都有各自的背景色。<br>
 ![笔记列表](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/list_1.png)<br>
 ### 二、笔记排序<br>
-  标题栏上显式的有两个菜单，分别对应查询笔记和添加笔记的操作。<br>
-  点击右边的三个冒号按钮，出现隐藏的菜单，分别是粘贴和排序。这里先讲笔记排序。<br>
-  点击下图“Sort”菜单，<br>
+    标题栏上显式的有两个菜单，分别对应查询笔记和添加笔记的操作。<br>
+    点击右边的三个冒号按钮，出现隐藏的菜单，分别是粘贴和排序。这里先讲笔记排序。<br>
+    点击下图“Sort”菜单，<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_1.png)<br>
-  将弹出一个对话框，如下图，对话框中列出所有可选的排序方式，按顺序分别是：<br>
-    按标题名称升序排序，<br>
-    按标题名称降序排序，<br>
-    按最后修改时间降序排序，<br>
-    按最后修改时间升序排序。<br>
+    将弹出一个对话框，如下图，对话框中列出所有可选的排序方式，按顺序分别是：<br>
+        按标题名称升序排序，<br>
+        按标题名称降序排序，<br>
+        按最后修改时间降序排序，<br>
+        按最后修改时间升序排序。<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_2.png)<br>
-  比如，我们选择第一个，按标题名称升序排序，则排序结果如下，<br>
+    比如，我们选择第一个，按标题名称升序排序，则排序结果如下，<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_3.png)<br>
-  或者，我们选择第三个，按最后修改时间降序排序（默认排序方式），则排序结果如下，<br>
+    或者，我们选择第三个，按最后修改时间降序排序（默认排序方式），则排序结果如下，<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_4.png)<br>
 笔记排序实现关键代码如下所示：<br>
 ```
@@ -473,7 +472,7 @@ public class NoteSearcher extends Activity {
 ![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/paste_2.png)<br>
   由于默认标题为笔记内容的前30个字符，过长，所以接下来我们可以选择“Edit title”菜单，修改笔记的标题，如下图，<br>
 ![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_paste_3.png)<br>
-  这里我们将标题修改为“NOTE”，如下图。
+  这里我们将标题修改为“NOTE”，如下图。<br>
 ![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_paste_4.png)<br>
 ### 九、编辑笔记内容与撤销编辑操作<br>
   接上一步的操作，对刚才通过粘贴操作新建的笔记“NOTE”进行编辑。输入一些文本“********”,如下图，然后如果我们想要撤销刚才的输入操作，点击隐藏菜单，菜单栏上出现撤销菜单(U型转弯图标，该菜单只有在笔记内容被编辑修改后才会出现，才可执行撤销操作)，<br>
