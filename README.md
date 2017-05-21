@@ -22,7 +22,6 @@ UI美化、笔记排序、导出笔记、更改记事本的背景<br>
 ### 三、添加笔记和修改背景色<br>
 
 ![添加笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_1.png)<br>
-![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_1.png)<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_2.png)<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_3.png)<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_4.png)<br>
