@@ -8,23 +8,23 @@
 笔记条目增加时间戳显示、根据标题查询笔记、UI美化、笔记排序、导出笔记、更改记事本的背景<br>
 ## 功能说明及展示：<br>
 ### 一、列出笔记条目,并显示时间戳<br>
-    当应用启动，系统将列出数据库所有的笔记条目。这是应用程序的主界面。<br>
-    每条笔记显示了笔记的标题以及最后修改时间，每条笔记都有各自的背景色。<br>
+&emsp;&emsp;当应用启动，系统将列出数据库所有的笔记条目。这是应用程序的主界面。<br>
+&emsp;&emsp;每条笔记显示了笔记的标题以及最后修改时间，每条笔记都有各自的背景色。<br>
 ![笔记列表](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/list_1.png)<br>
 ### 二、笔记排序<br>
-    标题栏上显式的有两个菜单，分别对应查询笔记和添加笔记的操作。<br>
-    点击右边的三个冒号按钮，出现隐藏的菜单，分别是粘贴和排序。这里先讲笔记排序。<br>
-    点击下图“Sort”菜单，<br>
+&emsp;&emsp;标题栏上显式的有两个菜单，分别对应查询笔记和添加笔记的操作。<br>
+&emsp;&emsp;点击右边的三个冒号按钮，出现隐藏的菜单，分别是粘贴和排序。这里先讲笔记排序。<br>
+&emsp;&emsp;点击下图“Sort”菜单，<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_1.png)<br>
-    将弹出一个对话框，如下图，对话框中列出所有可选的排序方式，按顺序分别是：<br>
-        按标题名称升序排序，<br>
-        按标题名称降序排序，<br>
-        按最后修改时间降序排序，<br>
-        按最后修改时间升序排序。<br>
+&emsp;&emsp;将弹出一个对话框，如下图，对话框中列出所有可选的排序方式，按顺序分别是：<br>
+&emsp;&emsp;&emsp;&emsp;按标题名称升序排序，<br>
+&emsp;&emsp;&emsp;&emsp;按标题名称降序排序，<br>
+&emsp;&emsp;&emsp;&emsp;按最后修改时间降序排序，<br>
+&emsp;&emsp;&emsp;&emsp;按最后修改时间升序排序。<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_2.png)<br>
-    比如，我们选择第一个，按标题名称升序排序，则排序结果如下，<br>
+&emsp;&emsp;比如，我们选择第一个，按标题名称升序排序，则排序结果如下，<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_3.png)<br>
-    或者，我们选择第三个，按最后修改时间降序排序（默认排序方式），则排序结果如下，<br>
+&emsp;&emsp;或者，我们选择第三个，按最后修改时间降序排序（默认排序方式），则排序结果如下，<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_4.png)<br>
 笔记排序实现关键代码如下所示：<br>
 ```
@@ -99,23 +99,23 @@ public void sortListItem() {
     }
 ```
 ### 三、添加笔记、修改背景色、保存笔记<br>
-  点击主界面的加号菜单，即可添加新的笔记内容。如下图，标题栏上显示的菜单分别是保存，删除以及更改背景色。<br>
+&emsp;&emsp;点击主界面的加号菜单，即可添加新的笔记内容。如下图，标题栏上显示的菜单分别是保存，删除以及更改背景色。<br>
 ![添加笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_1.png)<br>
-  接下来，我们输入笔记内容，并更换背景色（默认的背景色是淡青色）。<br>
-  例如，我们输入“ggg”,然后点击更改背景色菜单，弹出颜色选择框，<br>
+&emsp;&emsp;接下来，我们输入笔记内容，并更换背景色（默认的背景色是淡青色）。<br>
+&emsp;&emsp;例如，我们输入“ggg”,然后点击更改背景色菜单，弹出颜色选择框，<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_2.png)<br>
-  我们选择黄色作为这条笔记的背景色,效果如下图，更改背景色成功。<br>
+&emsp;&emsp;我们选择黄色作为这条笔记的背景色,效果如下图，更改背景色成功。<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_3.png)<br>
-  点击保存菜单，程序回到应用主界面，如下图。可以看到新添加的笔记（标题为“ggg”）出现在列表的第一条，而且背景色也是按我们设定的显示出来了。<br>
+&emsp;&emsp;点击保存菜单，程序回到应用主界面，如下图。可以看到新添加的笔记（标题为“ggg”）出现在列表的第一条，而且背景色也是按我们设定的显示出来了。<br>
 ![保存笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_4.png)<br>
-  如果想要重新更改背景色，可以点击这条新的笔记“ggg”，进入编辑界面，点击右上角菜单，出现“Background”，“Edit title”，“Expor”三个菜单，分别是更改背景色，修改标记标题，导出笔记操作。<br>
+&emsp;&emsp;如果想要重新更改背景色，可以点击这条新的笔记“ggg”，进入编辑界面，点击右上角菜单，出现“Background”，“Edit title”，“Expor”三个菜单，分别是更改背景色，修改标记标题，导出笔记操作。<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/color_1.png)<br>
-  这里点击“Bground”菜单，又弹出颜色选择框，<br>
+&emsp;&emsp;这里点击“Bground”菜单，又弹出颜色选择框，<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/color_2.png)<br>
-  这次我们选择粉红色作为背景色，效果下图所示，说明修改背景色成功。
+&emsp;&emsp;这次我们选择粉红色作为背景色，效果下图所示，说明修改背景色成功。
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/color_3.png)<br>
 具体实现原理说明：<br>
-  首先是颜色选择框的实现，实现代码如下：<br>
+&emsp;&emsp;首先是颜色选择框的实现，实现代码如下：<br>
 ```
 public class NoteChangeColor extends Activity {
     // Global mutable variables
@@ -181,7 +181,7 @@ public class NoteChangeColor extends Activity {
     }
 }
 ```
-  当我们单击了某个背景色后，程序将用户选定的背景色通过intent回传给NoteEditor,代码如下：<br>
+&emsp;&emsp;当我们单击了某个背景色后，程序将用户选定的背景色通过intent回传给NoteEditor,代码如下：<br>
 ```
                 Intent intent = new Intent();//新建一个intent
                 //puts the data of backgroundColor into the new intent,
@@ -189,7 +189,7 @@ public class NoteChangeColor extends Activity {
                 intent.putExtra("color", backgroundColor);//将用户选择的背景色数据传给调用当前activity的activity
                 NoteChangeColor.this.setResult(0, intent);
 ```
-  然后NoteEditor通过重写回调函数onActivityResult，接收传递回来的intent中的背景色参数，并将当前编辑界面的背景色更改为用户选定的背景色。
+&emsp;&emsp;然后NoteEditor通过重写回调函数onActivityResult，接收传递回来的intent中的背景色参数，并将当前编辑界面的背景色更改为用户选定的背景色。
 同时，将该背景色参数通过ContentProvider保存至数据库，更新数据库中该条笔记的背景色数据。代码如下：<br>
 ```
  @Override
@@ -208,20 +208,20 @@ public class NoteChangeColor extends Activity {
     }
 ```
 ### 四、修改笔记的标题<br>
-  在刚才新建笔记的编辑界面中，点击“Edit title”菜单，弹出如下对话框，对话框中显示默认标题为“ggg”（取笔记内容的前30个字符作为默认标题），<br>
+&emsp;&emsp;在刚才新建笔记的编辑界面中，点击“Edit title”菜单，弹出如下对话框，对话框中显示默认标题为“ggg”（取笔记内容的前30个字符作为默认标题），<br>
 ![修改笔记的标题](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_1.png)<br>
-  我们将标题改为“backup”,点击“OK”按钮，如下图，<br>
+&emsp;&emsp;我们将标题改为“backup”,点击“OK”按钮，如下图，<br>
 ![修改笔记的标题](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_2.png)<br>
-  下图的标题栏上的显示的标题变为“Edit:backup”，说明成功将标题修改为“backup”。<br>
+&emsp;&emsp;下图的标题栏上的显示的标题变为“Edit:backup”，说明成功将标题修改为“backup”。<br>
 ![修改笔记的标题](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_3.png)<br>
 ### 五、导出笔记<br>
-  接下来，我们在刚才的“backup”笔记编辑界面中，点击右上角隐藏的菜单项，选择“Export”菜单，将弹出一个信息框，如下图，信息框中提示新的文件“backup,txt”已经导出保存在/mnt/sdcard目录下。<br>
+&emsp;&emsp;接下来，我们在刚才的“backup”笔记编辑界面中，点击右上角隐藏的菜单项，选择“Export”菜单，将弹出一个信息框，如下图，信息框中提示新的文件“backup,txt”已经导出保存在/mnt/sdcard目录下。<br>
 ![导出笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/export_1.png)<br>
-  点击“OK”按钮，提示框消失，<br>
+&emsp;&emsp;点击“OK”按钮，提示框消失，<br>
 ![导出笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/export_2.png)<br>
-  点击保存菜单，程序回到主界面，可以看到标题为“backup”的笔记显示在列表首，笔记保存成功。<br>
+&emsp;&emsp;点击保存菜单，程序回到主界面，可以看到标题为“backup”的笔记显示在列表首，笔记保存成功。<br>
 ![保存笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/save_1.png)<br>
-  为了验证笔记是否导出成功，我们查找一下导出的笔记。如下图，我们在SD卡目录下找到了刚才导出的文件“backup.txt”，说明笔记导出成功。<br>
+&emsp;&emsp;为了验证笔记是否导出成功，我们查找一下导出的笔记。如下图，我们在SD卡目录下找到了刚才导出的文件“backup.txt”，说明笔记导出成功。<br>
 ![导出笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/export_3.png)<br>
 导出笔记实现关键代码如下：<br>
 ```
@@ -253,7 +253,7 @@ public class NoteChangeColor extends Activity {
         }
     }
 ```
-  其中，FileService是我自己编写的一个工具类，里面有一个方法saveToSDCard，用于将文件保存到SD卡中。具体实现如下：<br>
+&emsp;&emsp;其中，FileService是我自己编写的一个工具类，里面有一个方法saveToSDCard，用于将文件保存到SD卡中。具体实现如下：<br>
 ```
 package com.example.android.notepad.Util;
 
@@ -312,15 +312,15 @@ public class FileService {
 }
 ```
 ### 六、根据标题查询笔记<br>
-  回到程序主界面，点击搜索菜单，出现Search note界面如下，<br>
+&emsp;&emsp;回到程序主界面，点击搜索菜单，出现Search note界面如下，<br>
 ![查询笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/search_1.png)<br>
-  在搜索输入框中，我们输入“b”,搜索框下显示了两条标题中含有“b”的笔记条目，如下所示，<br>
+&emsp;&emsp;在搜索输入框中，我们输入“b”,搜索框下显示了两条标题中含有“b”的笔记条目，如下所示，<br>
 ![查询笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/search_2.png)<br>
-  点击其中一条“backup”，进入笔记编辑界面，如下图，可对该笔记进行编辑。
+&emsp;&emsp;点击其中一条“backup”，进入笔记编辑界面，如下图，可对该笔记进行编辑。
 ![查询笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/search_3.png)<br>
-  —_注：这里搜索出来的笔记条目的背景色与编辑笔记界面内部的背景色不一致，是有意为之。个人觉得这样搜索出来的结果风格比较统一，而且每个item在UI上也做了些美化。_<br>
+ &emsp;&emsp;_注：这里搜索出来的笔记条目的背景色与编辑笔记界面内部的背景色不一致，是有意为之。个人觉得这样搜索出来的结果风格比较统一，而且每个item在UI上也做了些美化。_<br>
 笔记查询的实现关键代码如下：<br>
-  当用户点击搜索菜单时，启动NoteSearcher activity,<br>
+&emsp;&emsp;当用户点击搜索菜单时，启动NoteSearcher activity,<br>
 ```
  @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -341,7 +341,7 @@ public class FileService {
                 ...
     }
 ```
-  在NoteSearcher中，实现对搜索输入框文本的监听，当输入文本发生改变时，将输入文本作为数据库查询操作的条件，执行数据库查询操作，查询出标题中含有输入文本的记录，并将结果显示在搜索结果列表中。实现代码如下：<br>
+&emsp;&emsp;在NoteSearcher中，实现对搜索输入框文本的监听，当输入文本发生改变时，将输入文本作为数据库查询操作的条件，执行数据库查询操作，查询出标题中含有输入文本的记录，并将结果显示在搜索结果列表中。实现代码如下：<br>
 ```
 public class NoteSearcher extends Activity {
     //Global mutable variables
@@ -437,7 +437,7 @@ public class NoteSearcher extends Activity {
     ...
 }
 ```
-  对于搜索结果列表中的笔记条目，要想实现点击它可以跳转到编辑该笔记的界面，还需实现对列表的OnItemClickListener的监听。为此我自定义了一个监听器类，实现跳转操作。具体实现如下：<br>
+&emsp;&emsp;对于搜索结果列表中的笔记条目，要想实现点击它可以跳转到编辑该笔记的界面，还需实现对列表的OnItemClickListener的监听。为此我自定义了一个监听器类，实现跳转操作。具体实现如下：<br>
 ```
    //自定义监听器类，实现OnItemClickListener接口
     //customized OnItemClickListener class ,which implements the interface OnItemClickListener
@@ -463,22 +463,22 @@ public class NoteSearcher extends Activity {
         }
 ```
 ### 七、删除笔记<br>
-  接上一步的操作，在刚才笔记“backup”的编辑界面，点击菜单栏上的删除图标，则程序回到主界面，如下图，可以看到标题为“backup”的笔记条目已被成功删除。<br>
+&emsp;&emsp;接上一步的操作，在刚才笔记“backup”的编辑界面，点击菜单栏上的删除图标，则程序回到主界面，如下图，可以看到标题为“backup”的笔记条目已被成功删除。<br>
 ![删除笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/delete_1.png)<br>
 ### 八、粘贴笔记内容<br>
-  回到程序主界面，点击隐藏菜单中的“paste”菜单，如下图，<br>
+&emsp;&emsp;回到程序主界面，点击隐藏菜单中的“paste”菜单，如下图，<br>
 ![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/paste_1.png)<br>
-  程序自动打开笔记编辑界面，并将当前系统剪贴板中的内容，粘贴在笔记内容中，如下图所示，<br>
+&emsp;&emsp;程序自动打开笔记编辑界面，并将当前系统剪贴板中的内容，粘贴在笔记内容中，如下图所示，<br>
 ![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/paste_2.png)<br>
-  由于默认标题为笔记内容的前30个字符，过长，所以接下来我们可以选择“Edit title”菜单，修改笔记的标题，如下图，<br>
+&emsp;&emsp;由于默认标题为笔记内容的前30个字符，过长，所以接下来我们可以选择“Edit title”菜单，修改笔记的标题，如下图，<br>
 ![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_paste_3.png)<br>
-  这里我们将标题修改为“NOTE”，如下图。<br>
+&emsp;&emsp;这里我们将标题修改为“NOTE”，如下图。<br>
 ![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_paste_4.png)<br>
 ### 九、编辑笔记内容与撤销编辑操作<br>
-  接上一步的操作，对刚才通过粘贴操作新建的笔记“NOTE”进行编辑。输入一些文本“********”,如下图，然后如果我们想要撤销刚才的输入操作，点击隐藏菜单，菜单栏上出现撤销菜单(U型转弯图标，该菜单只有在笔记内容被编辑修改后才会出现，才可执行撤销操作)，<br>
+&emsp;&emsp;接上一步的操作，对刚才通过粘贴操作新建的笔记“NOTE”进行编辑。输入一些文本“********”,如下图，然后如果我们想要撤销刚才的输入操作，点击隐藏菜单，菜单栏上出现撤销菜单(U型转弯图标，该菜单只有在笔记内容被编辑修改后才会出现，才可执行撤销操作)，<br>
 ![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_1.png)<br>
-  点击撤销菜单，程序回到主界面，如下图，<br>
+&emsp;&emsp;点击撤销菜单，程序回到主界面，如下图，<br>
 ![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_2.png)<br>
-  为了验证撤销操作，我们再点击“NOTE”笔记，进入编辑界面，可以看到刚才输入的文本“********”不见了，说明撤销操作执行成功。<br>
+&emsp;&emsp;为了验证撤销操作，我们再点击“NOTE”笔记，进入编辑界面，可以看到刚才输入的文本“********”不见了，说明撤销操作执行成功。<br>
 ![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_3.png)<br>
-  至此，程序说明完毕！
+&emsp;&emsp;至此，程序说明完毕！
