@@ -11,32 +11,53 @@ UI美化、笔记排序、导出笔记、更改记事本的背景<br>
 ## 功能说明及展示：<br>
 ### 一、列出笔记条目<br>
 
+![笔记列表](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/list_1.png)
 
 ### 二、笔记排序<br>
 
+![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_1.png)<br>
+![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_2.png)<br>
+![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_3.png)<br>
+![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_4.png)<br>
+### 三、添加笔记和修改背景色<br>
 
-### 三、添加笔记<br>
+![添加笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_1.png)<br>
+![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_1.png)<br>
+![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_2.png)<br>
+![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_3.png)<br>
+![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_4.png)<br>
+![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/color_1.png)<br>
+![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/color_2.png)<br>
+![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/color_3.png)<br>
+### 四、修改笔记的标题<br>
 
+![修改笔记的标题](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_1.png)<br>
+![修改笔记的标题](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_2.png)<br>
+![修改笔记的标题](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_3.png)<br>
+### 五、导出笔记<br>
 
-### 四、更改记事本的背景<br>
+![导出笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/export_1.png)<br>
+![导出笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/export_2.png)<br>
+![导出笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/export_3.png)<br>
+### 六、保存笔记<br>
 
+![保存笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/save_1.png)<br>
+### 七、根据标题查询笔记<br>
 
-### 五、修改笔记的标题<br>
+![查询笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/search_1.png)<br>
+![查询笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/search_2.png)<br>
+![查询笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/search_3.png)<br>
+### 八、删除笔记<br>
 
+![删除笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/delete_1.png)<br>
+### 九、粘贴笔记内容<br>
 
-### 六、导出笔记<br>
+![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/paste_1.png)<br>
+![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/paste_2.png)<br>
+![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_paste_3.png)<br>
+![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_paste_4.png)<br>
+### 十、编辑笔记内容与撤销编辑操作<br>
 
-
-### 七、保存笔记<br>
-
-
-### 八、根据标题查询笔记<br>
-
-
-### 九、删除笔记<br>
-
-
-### 十、粘贴笔记内容<br>
-
-
-### 十一、编辑笔记内容与撤销编辑操作<br>
+![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_1.png)<br>
+![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_2.png)<br>
+![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_3.png)<br>
