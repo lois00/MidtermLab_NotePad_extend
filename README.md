@@ -9,18 +9,18 @@
 ## 功能说明及展示：<br>
 ### 一、列出笔记条目,并显示时间戳<br>
 &emsp;&emsp;当应用启动，系统将列出数据库所有的笔记条目。这是应用程序的主界面。<br>
-&emsp;&emsp;每条笔记显示了笔记的标题以及最后修改时间，每条笔记都有各自的背景色。<br>
+每条笔记显示了笔记的标题以及最后修改时间，每条笔记都有各自的背景色。<br>
 ![笔记列表](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/list_1.png)<br>
 ### 二、笔记排序<br>
 &emsp;&emsp;标题栏上显式的有两个菜单，分别对应查询笔记和添加笔记的操作。<br>
-&emsp;&emsp;点击右边的三个冒号按钮，出现隐藏的菜单，分别是粘贴和排序。这里先讲笔记排序。<br>
-&emsp;&emsp;点击下图“Sort”菜单，<br>
+点击右边的三个冒号按钮，出现隐藏的菜单，分别是粘贴和排序。这里先讲笔记排序。<br>
+点击下图“Sort”菜单，<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_1.png)<br>
-&emsp;&emsp;将弹出一个对话框，如下图，对话框中列出所有可选的排序方式，按顺序分别是：<br>
-&emsp;&emsp;&emsp;&emsp;按标题名称升序排序，<br>
-&emsp;&emsp;&emsp;&emsp;按标题名称降序排序，<br>
-&emsp;&emsp;&emsp;&emsp;按最后修改时间降序排序，<br>
-&emsp;&emsp;&emsp;&emsp;按最后修改时间升序排序。<br>
+将弹出一个对话框，如下图，对话框中列出所有可选的排序方式，按顺序分别是：<br>
+&emsp;&emsp;按标题名称升序排序，<br>
+&emsp;&emsp;按标题名称降序排序，<br>
+&emsp;&emsp;按最后修改时间降序排序，<br>
+&emsp;&emsp;按最后修改时间升序排序。<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_2.png)<br>
 &emsp;&emsp;比如，我们选择第一个，按标题名称升序排序，则排序结果如下，<br>
 ![笔记排序](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/sort_3.png)<br>
@@ -102,7 +102,7 @@ public void sortListItem() {
 &emsp;&emsp;点击主界面的加号菜单，即可添加新的笔记内容。如下图，标题栏上显示的菜单分别是保存，删除以及更改背景色。<br>
 ![添加笔记](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_1.png)<br>
 &emsp;&emsp;接下来，我们输入笔记内容，并更换背景色（默认的背景色是淡青色）。<br>
-&emsp;&emsp;例如，我们输入“ggg”,然后点击更改背景色菜单，弹出颜色选择框，<br>
+例如，我们输入“ggg”,然后点击更改背景色菜单，弹出颜色选择框，<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_2.png)<br>
 &emsp;&emsp;我们选择黄色作为这条笔记的背景色,效果如下图，更改背景色成功。<br>
 ![添加笔记并修改背景色](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/addnote_color_3.png)<br>
@@ -475,10 +475,10 @@ public class NoteSearcher extends Activity {
 &emsp;&emsp;这里我们将标题修改为“NOTE”，如下图。<br>
 ![粘贴笔记内容](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/title_paste_4.png)<br>
 ### 九、编辑笔记内容与撤销编辑操作<br>
-&emsp;&emsp;接上一步的操作，对刚才通过粘贴操作新建的笔记“NOTE”进行编辑。输入一些文本“********”,如下图，然后如果我们想要撤销刚才的输入操作，点击隐藏菜单，菜单栏上出现撤销菜单(U型转弯图标，该菜单只有在笔记内容被编辑修改后才会出现，才可执行撤销操作)，<br>
+&emsp;&emsp;接上一步的操作，对刚才通过粘贴操作新建的笔记“NOTE”进行编辑。输入一些文本“\*\*\*\*\*\*\*\*”,如下图，然后如果我们想要撤销刚才的输入操作，点击隐藏菜单，菜单栏上出现撤销菜单(U型转弯图标，该菜单只有在笔记内容被编辑修改后才会出现，才可执行撤销操作)，<br>
 ![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_1.png)<br>
 &emsp;&emsp;点击撤销菜单，程序回到主界面，如下图，<br>
 ![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_2.png)<br>
-&emsp;&emsp;为了验证撤销操作，我们再点击“NOTE”笔记，进入编辑界面，可以看到刚才输入的文本“********”不见了，说明撤销操作执行成功。<br>
+&emsp;&emsp;为了验证撤销操作，我们再点击“NOTE”笔记，进入编辑界面，可以看到刚才输入的文本“\*\*\*\*\*\*\*\*”不见了，说明撤销操作执行成功。<br>
 ![编辑笔记内容与撤销](https://github.com/lois00/MidtermLab_NotePad_extend/blob/master/images/revert_3.png)<br>
 &emsp;&emsp;至此，程序说明完毕！
